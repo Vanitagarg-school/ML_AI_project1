@@ -21,24 +21,25 @@ Inspect the values to see which responses are most common in the surveys, and co
 4. Histogram visualization for temperature -
    
    ![output2](https://github.com/user-attachments/assets/2c160787-5ab9-4176-81e7-6cd5763a2c55)
-5. Data Analysis - 
-The total observations chose to accept the coupon -  56.84%.
+5. Summary of Findings:
 
-The total proportion of bar coupons chose that were accepted - 41.00%.
+#### General Acceptance: 
+The overall acceptance rate of coupons across all categories is 56.84%. This suggests a moderate level of acceptance amongst the participants in the study.
 
-The Bar coupon acceptance rate for those who went to a bar 3 or fewer times a month: 38.03%.
+#### Specific to Bar Coupons:
+Among those who chose bar coupons, the acceptance rate is 41.00%, which is significantly lower compared to the general acceptance rate.
+Frequency of Bar Visits: Individuals who go to a bar more than three times a month are much more likely to accept bar coupons, with an acceptance rate of 78.00%, compared to a lower rate of 38.03% among those who visit three or fewer times a month.
+Age Factor: Bar coupon acceptance increases with age among frequent bar-goers, evidenced by a 69.52% acceptance rate among drivers over the age of 25 who go to a bar more than once a month.
+Young Drivers: Young drivers under the age of 30 who frequently visit bars have a relatively high acceptance rate of 72.17%.
+Socio-Demographic influencing Factors:
 
-The Bar coupon acceptance rate for those who went to a bar more than 3 time a month: 78.00%.
+#### Occupation and Passenger Composition: 
+Drivers who frequent bars more than once a month and have passengers who are not kids and do not work in farming, fishing, or forestry show a somewhat high acceptance rate of 71.32%.
+Marital Status: Similarly, the acceptance rate remains the same (71.32%) for drivers who are not widowed, suggesting that marital status (in the context of being widowed or not) has no significant effect when other factors are held constant.
 
-The bar coupon acceptance rate by drivers  who go to a bar more than once a month and are over the age of 25 - 69.52%.
+#### Comparison with Other Activities:
+Drivers who frequent cheap restaurants more than four times a month with an income less than $50K show a lower bar coupon acceptance rate of 45.35%. This could suggest that economic factors or alternative preferences in leisure activities affect coupon acceptance.
 
-The bar coupon acceptance rate by drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry - 71.32%.
-
-The acceptance rate by drivers who go to bars more than once a month, had passengers that were not a kid, and were not widowed -  71.32%.
-
-The acceptance rate by drivers who go to bars more than once a month and are under the age of 30 -  72.17%.
-
-The acceptance rate by drivers who go to cheap restaurants more than 4 times a month and income is less than 50K -  45.35%.
 
 ### Conclusion:
 #### The findings suggest that the frequency of visiting bars is a significant predictor of bar coupon acceptance, especially among those who frequent bars more than three times a month. Age also plays a role, with higher acceptance noted among older frequent bar-goers.
